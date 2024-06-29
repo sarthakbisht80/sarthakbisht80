@@ -1,9 +1,9 @@
 - 👋 Hi, I’m SarthakBisht
-- 👀 I’m interested in Machine learning and Artificial Intelligence.
-- 🌱 I’m currently learning Blockchain.
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in DevOps also keen on exploring containerization technologies like Docker and orchestration tools such as Kubernetes.
+- 🌱 I’m currently learning blockchain delving into the world of blockchain technology,
+     focusing on understanding its foundational principles and applications in decentralized systems.
+- 📫 How to reach me- 📩bishtsarthak80@gmail.com  🔗www.linkedin.com/in/sarthak-bisht-0586a825b
+- ⚡ Fun fact: Men have 206 bones but not in early morning🫡.
 
 <!---
 sarthakbisht80/sarthakbisht80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
