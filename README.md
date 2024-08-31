@@ -1,4 +1,4 @@
-                                                                      Hi, I’m SarthakBisht
+                                                                Hi, I’m SarthakBisht
 - 👀 I’m interested in Web Dev passionate about building responsive, user-friendly websites and contributed in vairous team as well as solo  projects .
 - 📫 How to reach me- 📩bishtsarthak80@gmail.com  🔗www.linkedin.com/in/sarthak-bisht-0586a825b
 - ⚡ Fun fact: Devil whispers "You can't withstand the storm" Warrior replied " I am the Strom". 
