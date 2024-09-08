@@ -1,4 +1,4 @@
-<img align ="center" width="1000"height="200"src="https://static.tildacdn.one/tild6166-3262-4562-a163-326437373335/bad-code.gif">
+
 <h1 align="center">Hi 👋, I'm Sarthakbisht</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 <img align ="right" width="500"height="200"src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
