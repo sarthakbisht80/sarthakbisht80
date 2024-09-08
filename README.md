@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sarthakbisht</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
-<img align="right"alt="coding"width="500"src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
-- 🌱 I’m currently learning **Frontend Development using JS ,React Framework**
-
+<img align="right"alt="coding"width="500"src='https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 - 🌱 I’m currently learning **Frontend Development using JS ,React Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sarthakbisht80?tab=repositories](https://github.com/sarthakbisht80?tab=repositories)
