@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Programmer from India</h3>
 <img align ="right" width="500"height="200"src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-- 🌱 I’m currently learning **Frontend Development using JS ,React Framework**
+- 🌱 I’m currently learning **Data Analytics **(focusing on tools like Excel, SQL, Python, and data visualization techniques Power BI, Tablue )
 
 - 👨‍💻 All of my projects are available at [https://github.com/sarthakbisht80?tab=repositories](https://github.com/sarthakbisht80?tab=repositories)
 
