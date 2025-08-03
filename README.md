@@ -21,6 +21,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+ <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+
+  <!-- CSS -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
 
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -30,6 +44,11 @@
   <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+
+  <!-- Express.js -->
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/>
   </a>
 
   <!-- MongoDB -->
@@ -47,20 +66,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
 
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
+ 
 
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -82,21 +88,11 @@
     <img src="https://img.icons8.com/fluency/48/000000/database.png" alt="SQL" width="40" height="40"/>
   </a>
 
-  <!-- Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="MS Excel" width="40" height="40"/>
-  </a>
-
-  <!-- Power BI -->
-  <a href="https://www.microsoft.com/en-us/microsoft-power-bi" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
-  </a>
-
 </p>
 
 <!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakbisht80&show_icons=true&locale=en&layout=compact" alt="sarthakbisht80" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakbisht80&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakbisht80&show_icons=true&locale=en" alt="sarthakbisht80" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakbisht80&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbisht80&" alt="sarthakbisht80" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbisht80" alt="GitHub Streak" /></p>
