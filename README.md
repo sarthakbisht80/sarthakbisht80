@@ -52,7 +52,6 @@ My areas of interest include:
 
 ### 📌 Pinned Projects  
 - **Netflix Clone** 🎬 → Full-stack movie streaming app (React, Node.js, TMDB API).  
-- **Ecommerce Store** 🛒 → MERN-based ecommerce platform with payments & authentication.  
 - **Chat App** 💬 → Real-time chat app using Socket.io & MongoDB.  
 - **Portfolio Website** 🌐 → Personal portfolio built with Next.js & Tailwind CSS.  
 
