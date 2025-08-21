@@ -1,63 +1,38 @@
-<h1 align="center">Hi 👋, I'm Sarthak Bisht</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<!-- GitHub Profile README for Sarthak Bisht -->
 
-<img align="right" width="500" height="200" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2FF7FE&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sarthak+Bisht;MERN+Stack+Developer;Always+Learning+%F0%9F%93%9A;Let%27s+Build+Something+Great+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-- 🌱 I’m currently learning **Full Stack Web Development** (mainly focusing on React.js, MongoDB, Express.js, and scalable backend systems).  
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/sarthakbisht80?tab=repositories)  
-- 📫 Reach me at **bishtsarthak80@gmail.com**  
-
----
-
-### 💡 Motivations & Interests  
-I love solving real-world problems with code and building web applications that make an impact.  
-My areas of interest include:  
-- 🚀 Web Development (React, Node.js, Next.js)  
-- ☁️ Cloud Computing & Deployment  
-- 📊 Data Structures & Algorithms  
-- 🤝 Collaborative Open Source Projects  
-
----
-
-### 🔗 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/sarthak-bisht-0586a825b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/rickybishht" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-2ECC71?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-Lover-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-blueviolet?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/database.png" alt="SQL Server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+### 🔍 About Me
+
+- 💻 I build scalable full-stack apps using **React.js, Node.js, Express & MongoDB**
+- ✨ Focused on **UI/UX, modular code**, and **clean architecture**
+- 🌱 Currently learning: **Authentication, Charts & Role-based Dashboards**
+- 💬 Ask me about: **MERN stack, Firebase, or anything full-stack**
+- 📫 Reach me at: `bishtsarthak80@gmail.com`
+- 🌐 Portfolio: [https://vercel.com/sarthakbisht80s-projects/portfolio-website](https://vercel.com/sarthakbisht80s-projects/portfolio-website)
+
+---
+
+### ⚒️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,firebase,git,github,vscode" />
 </p>
 
 ---
 
-### 📌 Pinned Projects  
-- **Netflix Clone** 🎬 → Full-stack movie streaming app (React, Node.js, TMDB API).  
-- **Chat App** 💬 → Real-time chat app using Socket.io & MongoDB.  
-- **Portfolio Website** 🌐 → Personal portfolio built with Next.js & Tailwind CSS.  
+### 📊 GitHub Stats & Activity
 
----
-
-### 📊 GitHub Stats:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakbisht80&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
@@ -65,3 +40,28 @@ My areas of interest include:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakbisht80&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbisht80" alt="GitHub Streak" /></p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarthak-bisht-0586a825b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bishtsarthak80@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sarthakbisht80" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://vercel.com/sarthakbisht80s-projects/portfolio-website" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Built with ❤️ by <strong>Sarthak Bisht</strong>
+</p>
