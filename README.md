@@ -19,7 +19,7 @@
 - 🌱 Currently learning: **Authentication, Charts & Role-based Dashboards**
 - 💬 Ask me about: **MERN stack, Firebase, or anything full-stack**
 - 📫 Reach me at: `bishtsarthak80@gmail.com`
-- 🌐 Portfolio: [https://vercel.com/sarthakbisht80s-projects/portfolio-website](https://vercel.com/sarthakbisht80s-projects/portfolio-website)
+- 🌐 Portfolio: [https://vercel.com/sarthakbisht80s-projects/portfolio-website](https://portfolio-website-jade-iota-26.vercel.app/)
 
 ---
 
