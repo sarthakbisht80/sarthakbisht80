@@ -55,8 +55,7 @@
   <a href="https://github.com/sarthakbisht80" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="portfolio-website-jade-iota-26.vercel.app
-" target="_blank">
+  <a href="https://portfolio-website-jade-iota-26.vercel.app/"   target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
