@@ -15,7 +15,7 @@
 ### 🔍 About Me
 
 - 💻 I build scalable full-stack apps using **React.js, Node.js, Express & MongoDB**
-- ✨ Focused on **UI/UX, modular code**, and **clean architecture**
+- ✨ Focused on **UI/UX, modular code**, and **Clean architecture**
 - 🌱 Currently learning: **Authentication, Charts & Role-based Dashboards**
 - 💬 Ask me about: **MERN stack, Firebase, or anything full-stack**
 - 📫 Reach me at: `bishtsarthak80@gmail.com`
